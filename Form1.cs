@@ -19,7 +19,7 @@ namespace Buttons
 
         double N = 0.0;
 
-        int mode = 0; //0 - nomode
+        int mode = 0; //0 - nomode проверка связи
                       //1 - add(+)
                       //2 - sub(-)
                       //3 - mul(*)
