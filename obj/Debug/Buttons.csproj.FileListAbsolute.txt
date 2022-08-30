@@ -1,0 +1,15 @@
+C:\VS\Buttons\bin\Debug\Buttons.exe.config
+C:\VS\Buttons\bin\Debug\Buttons.exe
+C:\VS\Buttons\bin\Debug\Buttons.pdb
+C:\VS\Buttons\obj\Debug\Buttons.csproj.AssemblyReference.cache
+C:\VS\Buttons\obj\Debug\Buttons.csproj.SuggestedBindingRedirects.cache
+C:\VS\Buttons\obj\Debug\Buttons.Form1.resources
+C:\VS\Buttons\obj\Debug\Buttons.Properties.Resources.resources
+C:\VS\Buttons\obj\Debug\Buttons.csproj.GenerateResource.cache
+C:\VS\Buttons\obj\Debug\Buttons.csproj.CoreCompileInputs.cache
+C:\VS\Buttons\obj\Debug\Buttons.exe
+C:\VS\Buttons\obj\Debug\Buttons.pdb
+C:\VS\Buttons\bin\Debug\Buttons.exe.manifest
+C:\VS\Buttons\bin\Debug\Buttons.application
+C:\VS\Buttons\obj\Debug\Buttons.exe.manifest
+C:\VS\Buttons\obj\Debug\Buttons.application
