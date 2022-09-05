@@ -19,12 +19,14 @@ namespace Buttons
 
         double N = 0.0;
 
-        int mode = 0; //0 - nomode проверка связи - проверка успешная
+        int mode = 0; //0 - nomode
                       //1 - add(+)
                       //2 - sub(-)
                       //3 - mul(*)
                       //4 - div(/)
+                      // новая ветка иуацуацууца
 
+        
         
         
         private void Button1_Click(object sender, EventArgs e)
